@@ -1,7 +1,7 @@
 # expensifyapp-jesttest
 Using html, css, js, images, redux, react, redux dev tools, jest
 
-
+<br>
 
 1. Install node-js and yarn
 
@@ -12,7 +12,7 @@ Using html, css, js, images, redux, react, redux dev tools, jest
 ExpensifyApp: In the terminal it will run all the tests created in the tests folder inside public/src/tests 
 
 #### P.S: In the package.json, there is now a new option in script test:"jest", so i can run the test cases
-
+<pre>
 {
   "name": "expensify",
   "version": "1.0.0",
@@ -25,3 +25,4 @@ ExpensifyApp: In the terminal it will run all the tests created in the tests fol
     "dev-server": "webpack-dev-server",
     "test": "jest"
 }
+</pre>
