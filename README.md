@@ -11,7 +11,7 @@ Using html, css, js, images, redux, react, redux dev tools, jest
 
 ExpensifyApp: In the terminal it will run all the tests created in the tests folder inside public/src/tests 
 
-#### P.S: In the package.json, there is now a new option in script test:"jest", so i can run the test cases
+#### P.S: In the package.json, there is now a new option in script test:"jest", to run the test cases
 <pre>
 {
   "name": "expensify",
